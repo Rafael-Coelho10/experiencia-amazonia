@@ -33,8 +33,8 @@ export default function Navbar() {
               <Image 
                 src="/images/logo-final.png" 
                 alt="Logo Turiarte Amazônia" 
-                width={80} 
-                height={80}
+                width={120} 
+                height={120}
                 priority={true} 
               />
             </ScrollLink>
